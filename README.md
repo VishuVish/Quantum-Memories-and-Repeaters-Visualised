@@ -16,5 +16,5 @@ To render a specific scene, run the following command in your terminal:
 ```bash
 manim -pql <filename.py> <SceneName>
 ```
-
+This code is provided for educational and academic presentation purposes. Feel free to modify the parameters (Rabi frequencies, decay rates, colors) to fit your specific presentation theme.
 
